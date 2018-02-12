@@ -1,0 +1,17 @@
+*{
+	box-sizing: border-box;
+}
+body {
+	font-family: Avenir;
+}
+
+li {
+  list-style-type: none;
+  border: .5px solid grey;
+  width: 250px;
+  padding: 12px;
+}
+
+.green-word {
+	color: #66CC99;
+}

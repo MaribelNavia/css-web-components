@@ -1,0 +1,46 @@
+*{
+	box-sizing: border-box;
+}
+body {
+	background-color: #FBF9F1;
+}
+
+h1 {
+	font-family: Georgia;
+	font-size: 20px;
+}
+
+.underline {
+	text-decoration: underline;
+}
+.black-shadow {
+	font-family: Georgia;		
+	background-color: black;
+	color: white;
+	font-family: serif;
+}
+.big-hello {
+	font-size: 40px;
+
+}
+
+.diferent-style {
+	font-style: Ubuntu;
+	font-size: 22px;
+
+}
+
+a {
+	color: #77A8D2;
+	text-decoration: none;
+}
+
+div {
+	font-family: Ubuntu;
+	width: 390px;
+	margin-left: 150px;
+}
+
+p {
+	line-height: 1.25;
+}
